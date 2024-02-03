@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef08011046035b14aaf377b12a180d95, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  storyText: "Jsi v m\xEDstnosti vid\xED\u0161 po\u010D\xEDta\u010D, pojistky a masivn\xED
+    dve\u0159e. Co ud\u011Bl\xE1\u0161?\n\n1) P\u016Fjde\u0161 k po\u010D\xEDta\u010Di\n2)
+    P\u016Fjde\u0161 k pojistk\xE1m\n3) P\u016Fjde\u0161 ke dve\u0159\xEDm"
+  nextStates:
+  - {fileID: 11400000, guid: 23759e091b3db2e4d96c0f36a93c278d, type: 2}
+  - {fileID: 11400000, guid: f1cd8c40ef57bca43bb39d5b926bdb72, type: 2}
+  - {fileID: 11400000, guid: f56c8915e46fc0148bfc7c704879eefc, type: 2}

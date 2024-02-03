@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef08011046035b14aaf377b12a180d95, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  storyText: "Spojit jsi modr\xFD a \u010Derven\xFD dr\xE1t. Do\u0161lo ke zkratu
+    a dostal jsi siln\xFD elektrick\xFD \u0161ok.\nZem\u0159el jsi.\n\n1) Za\u010D\xEDt
+    znovu\n2) menu"
+  nextStates:
+  - {fileID: 11400000, guid: ecade551ed80e714285956a278c8aa06, type: 2}
+  - {fileID: 11400000, guid: c30483bc6dae0ef46ad53d4d94170088, type: 2}

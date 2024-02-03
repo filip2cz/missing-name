@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef08011046035b14aaf377b12a180d95, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  storyText: "Spojil jsi 2 modr\xE9 dr\xE1ty k sob\u011B. Dioda se rozsv\xEDtila.
+    Co ud\u011Bl\xE1\u0161?\n\n1) nech\xE1\u0161 to tak, jak to je a odejde\u0161
+    od pojistek\n2) odpoj\xED\u0161 od sebe 2 modr\xE9 dr\xE1ty a p\u0159ipoj\xED\u0161
+    modr\xFD k \u010Derven\xE9mu"
+  nextStates:
+  - {fileID: 11400000, guid: cadcc6fb84a7ca440a9afb7214f7f452, type: 2}
+  - {fileID: 11400000, guid: f25c9f8a5cc365a46b04da02503023ef, type: 2}

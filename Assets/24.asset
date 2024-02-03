@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef08011046035b14aaf377b12a180d95, type: 3}
+  m_Name: 24
+  m_EditorClassIdentifier: 
+  storyText: "I p\u0159esto, \u017Ee jsi p\u0159ed chv\xEDl\xED zem\u0159el jsi se
+    znovu probudil uprost\u0159ed t\xE9 sam\xE9 m\xEDstnosti. Kdy\u017E ti sem pustili
+    plyn, mus\xED tu b\xFDt n\u011Bjak\xE1 ventilace. Rozhl\xE9dl jsi se a naho\u0159e
+    u stropu vid\xED\u0161 ventilaci. Jak jsi ji mohl p\u0159ehl\xE9dnout?\n\n1)
+    pokra\u010Dovat"
+  nextStates:
+  - {fileID: 11400000, guid: 18f860895f4c3b34d8452c3239e2a526, type: 2}

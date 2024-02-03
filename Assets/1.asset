@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef08011046035b14aaf377b12a180d95, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  storyText: "Probudil jsi se v temn\xE9 m\xEDstnosti. Nen\xED tam moc sv\u011Btla,
+    sv\xEDt\xED tam jen slab\xE1 \u017E\xE1rovka. Vid\xED\u0161 tam jen star\xFD
+    po\u010D\xEDta\u010D, sk\u0159\xED\u0148 s pojistkami a dve\u0159e. Co ud\u011Bl\xE1\u0161?\n\n1)
+    P\u016Fjde\u0161 k po\u010D\xEDta\u010Di\n2) Pod\xEDv\xE1\u0161 se na sk\u0159\xEDn
+    s pojistkami\n3) P\u016Fjde\u0161 ke dve\u0159\xEDm"
+  nextStates:
+  - {fileID: 11400000, guid: 64bddb8210c14d74c865c84d63fcbcac, type: 2}
+  - {fileID: 11400000, guid: c57dfe3a3c472d142a18f418bf2c4796, type: 2}
+  - {fileID: 11400000, guid: e99c6212e375d2a46af5dfa39e3ebd90, type: 2}

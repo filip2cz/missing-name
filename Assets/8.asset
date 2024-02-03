@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef08011046035b14aaf377b12a180d95, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  storyText: "Jsi u zapnut\xE9ho po\u010D\xEDta\u010De. Na monituru je h\xE1danka:
+    \"h\xE1danka\"\n\n1) \u0161patn\xE1 odpov\u011B\u010F\n2) spr\xE1vn\xE1 odpov\u011B\u010F\n3)
+    \u0161patn\xE1 odpov\u011B\u010F\n4) \u0161patn\xE1 odpov\u011B\u010F\n\nPozn\xE1mka
+    autora: Zat\xEDm jsem nevymyslel n\u011Bjakou h\xE1danku, kterou bych tam dal.
+    Tohle je prozat\xEDm n\u011Bco jako n\xE1hrada"
+  nextStates:
+  - {fileID: 11400000, guid: 7acaebec359790c4782205aac4b72991, type: 2}
+  - {fileID: 11400000, guid: e54ce2e9c3e9ae44ea5b96ad56d8d370, type: 2}
+  - {fileID: 11400000, guid: 7acaebec359790c4782205aac4b72991, type: 2}
+  - {fileID: 11400000, guid: 7acaebec359790c4782205aac4b72991, type: 2}
